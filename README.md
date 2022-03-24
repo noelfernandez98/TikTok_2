@@ -3,3 +3,4 @@
 1. Search Bar
 2. Add bio to profile 
 3. Go to home tab
+4. Unfollow button 
